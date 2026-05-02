@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\.896c217aea0198a61f9ae38ae4298a887b8b9bc7-audit.json",
+    "files": [
+        {
+            "date": 1776618617189,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-19-04-23-error.log",
+            "hash": "fcb61e96c7d0cfab318d6e13631e91feb02174934dbc995b05adee7ac83ccd2a"
+        },
+        {
+            "date": 1776624233749,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-20-04-00-error.log",
+            "hash": "603f02e70f39b2a40eb9b3c1315bbd224758cb2153b4ac90ff5b13774c559847"
+        },
+        {
+            "date": 1776696736808,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-20-04-20-error.log",
+            "hash": "d3d3fee5f587ae28d835b35c8e816b2f104706d219749ef06e5c88af56aaf52d"
+        },
+        {
+            "date": 1776754504660,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-21-04-12-error.log",
+            "hash": "b9424299805ada3ab2c7f80b9804220d91d8a1e4714bce90fddfc44d235f6f52"
+        },
+        {
+            "date": 1776958354811,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-23-04-21-error.log",
+            "hash": "36d388b8ffe63872c125e0abd000e384844d5fe534b9cc86b777152816405338"
+        },
+        {
+            "date": 1777219805940,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-26-04-22-error.log",
+            "hash": "2e31afe6e6907028e5786de1347b1b56cdefd824b242c214e6d1b714251495ca"
+        },
+        {
+            "date": 1777396866541,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\errors\\phu-2026-28-04-23-error.log",
+            "hash": "ffdedb83a00ad0e1251f3ec819a06f6fc541513f31c14f53267696557fa52c27"
+        }
+    ],
+    "hashType": "sha256"
+}

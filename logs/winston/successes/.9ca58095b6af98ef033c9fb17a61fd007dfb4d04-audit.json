@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\.9ca58095b6af98ef033c9fb17a61fd007dfb4d04-audit.json",
+    "files": [
+        {
+            "date": 1776618617181,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-19-04-23-success.log",
+            "hash": "a1c68802fab06c46e04d39cebe5899455b85edac00eb73e160372c5a88c0fe7b"
+        },
+        {
+            "date": 1776624233747,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-20-04-00-success.log",
+            "hash": "adbcc703d762048a99a228a6a9ed3f32d88f27c7e46745973010684675303e0f"
+        },
+        {
+            "date": 1776696736806,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-20-04-20-success.log",
+            "hash": "9f5030c8d188712da405c81d72d234c98033611a6af4c77db307efc8decaecf4"
+        },
+        {
+            "date": 1776754504656,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-21-04-12-success.log",
+            "hash": "5e1a2400ec0791a23bf0ab5b2d236bc3cf8c32f2dc9f7ae38beaedcecd05da18"
+        },
+        {
+            "date": 1776958354809,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-23-04-21-success.log",
+            "hash": "96bce28a4f4009454e5886422e1c07c44c92dbd9d4290ae5578fd2273d05870e"
+        },
+        {
+            "date": 1777219805938,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-26-04-22-success.log",
+            "hash": "8215b19eda7faf0207cd7c05a56bbdef857a083ee8b18cb9a7eb7cf54438bacc"
+        },
+        {
+            "date": 1777396866538,
+            "name": "D:\\project\\PH-L2\\um-backend\\core-service\\logs\\winston\\successes\\phu-2026-28-04-23-success.log",
+            "hash": "72c8da93b89c7745aa61a03a0d755cf339fa0d1ec0c5f7a988c34e29b0ab425e"
+        }
+    ],
+    "hashType": "sha256"
+}
