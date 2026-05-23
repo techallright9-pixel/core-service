@@ -365,6 +365,22 @@ model StudentAcademicInfo {
   @@map("student_academic_infos")
 }
 
+model InventoryItem {
+  id          String   @id @default(uuid())
+  name        String
+  sku         String   @unique
+  description String?
+  quantity    Int      @default(0)
+  unit        String?
+  location    String?
+  createdBy   String?
+  updatedBy   String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("inventory_items")
+}
+
 enum SemesterRegistrationStatus {
   UPCOMING
   ONGOING

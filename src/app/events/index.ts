@@ -1,9 +1,5 @@
-import initFacultyEvents from "../modules/faculty/faculty.events";
-import initStudentEvents from "../modules/student/student.events";
-
 const subscribeToEvents = () => {
-    initStudentEvents();
-    initFacultyEvents();
-}
+  // Student/faculty sync removed — users are managed in auth-service only.
+};
 
 export default subscribeToEvents;
